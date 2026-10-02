@@ -8,7 +8,7 @@ export function Footer() {
           <Droplets size={20} strokeWidth={2.5} />
         </span>
         <span>
-          northline<span>plumbing</span>
+          PRIMEWAVE<span> plumbing solutions</span>
         </span>
       </a>
       <p>Built to flow. Proudly serving our local community.</p>
@@ -18,7 +18,7 @@ export function Footer() {
         <a href="#contact">Contact</a>
         <a href="#">Instagram</a>
       </div>
-      <small>© 2024 Northline Plumbing. All rights reserved.</small>
+      <small>© 2024 PRIMEWAVE plumbing solutions. All rights reserved.</small>
     </footer>
   );
 }

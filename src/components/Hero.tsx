@@ -24,26 +24,9 @@ export function Hero() {
             Explore services <ChevronDown size={17} />
           </a>
         </div>
-        <div className="hero-proof">
-          <div className="avatar-stack" aria-hidden="true">
-            <span>JM</span>
-            <span>SA</span>
-            <span>TK</span>
-          </div>
-          <p>
-            <strong>Trusted by 400+ homeowners</strong>
-            <br />
-            <span>
-              ★★★★★ <small>5.0 average rating</small>
-            </span>
-          </p>
-        </div>
       </div>
       <div className="hero-visual">
         <div className="hero-image">
-          <div className="image-label">
-            <span className="status-dot" /> On site, on time
-          </div>
           <div className="circle-stamp">
             QUALITY
             <br />
@@ -59,7 +42,7 @@ export function Hero() {
             <br />
             to the last detail.
           </p>
-          <a href="#about" aria-label="Learn more about Northline">
+          <a href="#about" aria-label="Learn more about PRIMEWAVE">
             <ArrowRight size={20} />
           </a>
         </div>

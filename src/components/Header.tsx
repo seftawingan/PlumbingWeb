@@ -26,13 +26,13 @@ export function Header({ menuOpen, onMenuToggle, onMenuClose }: HeaderProps) {
           className="brand"
           href="#top"
           onClick={onMenuClose}
-          aria-label="Northline Plumbing home"
+          aria-label="PRIMEWAVE plumbing solutions home"
         >
           <span className="brand-mark">
             <Droplets size={20} strokeWidth={2.5} />
           </span>
           <span>
-            northline<span>plumbing</span>
+            PRIMEWAVE<span> plumbing solutions</span>
           </span>
         </a>
         <button
@@ -51,7 +51,7 @@ export function Header({ menuOpen, onMenuToggle, onMenuClose }: HeaderProps) {
             Services
           </a>
           <a href="#about" onClick={onMenuClose}>
-            Why Northline
+            Why PRIMEWAVE
           </a>
           <a href="#process" onClick={onMenuClose}>
             Our process

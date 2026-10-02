@@ -6,7 +6,6 @@ import { Hero } from "./components/Hero";
 import { ProcessSection } from "./components/ProcessSection";
 import { ServicesSection } from "./components/ServicesSection";
 import { TrustSection } from "./components/TrustSection";
-import { TrustedBy } from "./components/TrustedBy";
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -19,7 +18,6 @@ function App() {
         onMenuClose={() => setMenuOpen(false)}
       />
       <Hero />
-      <TrustedBy />
       <ServicesSection />
       <TrustSection />
       <ProcessSection />

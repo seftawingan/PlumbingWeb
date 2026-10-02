@@ -28,7 +28,7 @@ export function TrustSection() {
       </div>
       <div className="about-copy">
         <p className="eyebrow">
-          <span /> Why Northline
+          <span /> Why PRIMEWAVE
         </p>
         <h2>
           Plumbing with a little more <em>thought</em> behind it.
