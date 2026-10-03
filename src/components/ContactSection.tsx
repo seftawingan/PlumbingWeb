@@ -18,8 +18,8 @@ export function ContactSection() {
         </p>
         <div className="contact-direct">
           <span>Prefer to talk?</span>
-          <a href="tel:1300555018">
-            <Phone size={16} /> 1300 555 018
+          <a href="tel:+61491784871">
+            <Phone size={16} /> +61 491 784 871
           </a>
         </div>
       </div>
@@ -42,7 +42,7 @@ export function ContactSection() {
             </option>
             <option>New home plumbing</option>
             <option>Repairs & maintenance</option>
-            <option>Bathroom or renovation</option>
+            <option>Renovation</option>
           </select>
         </label>
         <label>

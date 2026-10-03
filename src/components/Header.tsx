@@ -10,10 +10,9 @@ export function Header({ menuOpen, onMenuToggle, onMenuClose }: HeaderProps) {
   return (
     <>
       <div className="announcement">
-        <span>Serving homes and builders across the region</span>
         <div className="announcement-actions">
-          <a className="announcement-phone" href="tel:1300555018">
-            <Phone size={14} /> 1300 555 018
+          <a className="announcement-phone" href="tel:+61491784871">
+            <Phone size={14} /> +61 491 784 871
           </a>
           <a href="#contact">
             Book a no-obligation quote <ArrowRight size={14} />
